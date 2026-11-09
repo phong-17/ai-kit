@@ -1,0 +1,13 @@
+# Secrets — never commit tokens
+settings.json
+settings.local.json
+.claude/settings.json
+.claude/settings.local.json
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

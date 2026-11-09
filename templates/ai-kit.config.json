@@ -1,0 +1,4 @@
+{
+  "baseBranch": "dev",
+  "commonDirs": ["src/common", "src/utils", "src/components/common"]
+}
